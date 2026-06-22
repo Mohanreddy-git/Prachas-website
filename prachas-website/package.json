@@ -1,0 +1,12 @@
+{
+  "name": "prachas-website",
+  "version": "1.0.0",
+  "description": "Prachas Technologies website - Static HTML/CSS/JS recreation",
+  "main": "index.html",
+  "scripts": {
+    "dev": "http-server -p 8080"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
